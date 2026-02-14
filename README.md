@@ -42,7 +42,7 @@ The analysis uses four relational datasets:
 - ingredients
 These datasets were merged into a single dataframe using relational keys to enable comprehensive analysis.
 
-# Tools and Technologies
+# Tools and Functions Used 
 - Python
 - Pandas
 - NumPy
@@ -81,7 +81,7 @@ Several important business insights emerged:
 - A small number of pizza types contribute disproportionately to total revenue.
 - Some menu items consistently underperform and may require promotion or replacement.
 - Monthly sales variations indicate potential seasonal demand fluctuations.
-# These findings demonstrate the value of data analytics in operational planning and decision-making.
+These findings demonstrate the value of data analytics in operational planning and decision-making.
 
 # Business Recommendations
 Based on the analysis, the following recommendations can be made:
