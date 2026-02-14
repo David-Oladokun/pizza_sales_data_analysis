@@ -40,7 +40,7 @@ The analysis uses four relational datasets:
 - name
 - category
 - ingredients
-# These datasets were merged into a single dataframe using relational keys to enable comprehensive analysis.
+These datasets were merged into a single dataframe using relational keys to enable comprehensive analysis.
 
 # Tools and Technologies
 - Python
